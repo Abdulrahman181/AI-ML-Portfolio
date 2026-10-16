@@ -1,35 +1,50 @@
 # Project Catalog
 
-## Presentation rule
+The portfolio is now organized into domain repositories. The original standalone repositories remain available as source history; the categorized repositories are the primary navigation layer.
 
-GitHub repositories remain independent. The categories below are portfolio sections, not filesystem folders. A project may appear in more than one category when its scope spans multiple disciplines.
+## Category repositories
 
-## Recommended portfolio order
+| Category | Repository | Projects |
+|---|---|---:|
+| Machine Learning | [Machine-Learning](https://github.com/Abdulrahman181/Machine-Learning) | 19 |
+| Deep Learning | [Deep-Learning](https://github.com/Abdulrahman181/Deep-Learning) | 4 |
+| Computer Vision | [Computer-Vision](https://github.com/Abdulrahman181/Computer-Vision) | 6 |
+| NLP | [NLP](https://github.com/Abdulrahman181/NLP) | 1 |
+| Generative AI / LLMs | [Generative-AI-LLMs](https://github.com/Abdulrahman181/Generative-AI-LLMs) | 3 |
+| Agentic AI | [Agentic-AI](https://github.com/Abdulrahman181/Agentic-AI) | 0 — ready for future agents |
+| MLOps | [MLOps](https://github.com/Abdulrahman181/MLOps) | 4 |
+| Big Data | [Big-Data](https://github.com/Abdulrahman181/Big-Data) | 1 |
+| Programming | [Programming](https://github.com/Abdulrahman181/Programming) | 0 — ready for Python/C/C++ work |
+| Other | [Other](https://github.com/Abdulrahman181/Other) | 1 |
 
-1. AI Resume Analyzer
-2. HR Policy RAG System
-3. Financial Fraud Detection
-4. Sales Forecasting and Demand Prediction
-5. Self-Driving Semantic Segmentation
-6. Plant Disease Classification
-7. Telecom Customer Churn Prediction System
-8. Olist PostgreSQL MLOps Task
-9. Smart Document Assistant
-10. Healthcare Recommendation System
+## Featured projects
 
-## Maturity labels
+1. [AI Resume Analyzer](https://github.com/Abdulrahman181/Generative-AI-LLMs/tree/main/projects/AI-Resume-Analyzer-development)
+2. [HR Policy RAG System](https://github.com/Abdulrahman181/Generative-AI-LLMs/tree/main/projects/HR-Policy-Question-Answering-System-RAG)
+3. [Financial Fraud Detection](https://github.com/Abdulrahman181/Machine-Learning/tree/main/projects/AI-Powered-Financial-Fraud-Detection-System)
+4. [Sales Forecasting and Demand Prediction](https://github.com/Abdulrahman181/Machine-Learning/tree/main/projects/sales-forecasting-and-demand-prediction)
+5. [Self-Driving Semantic Segmentation](https://github.com/Abdulrahman181/Computer-Vision/tree/main/projects/Self-Driving-Car-Semantic-Segmentation-using-U-Net)
+6. [Plant Disease Classification](https://github.com/Abdulrahman181/Deep-Learning/tree/main/projects/Classification-of-plant-diseases)
+7. [Telecom Customer Churn System](https://github.com/Abdulrahman181/MLOps/tree/main/projects/Telecom-Customer-Churn-Prediction-System)
+8. [Olist PostgreSQL MLOps](https://github.com/Abdulrahman181/MLOps/tree/main/projects/mlops-task1-olist-postgresql)
+9. [Smart Document Assistant](https://github.com/Abdulrahman181/Generative-AI-LLMs/tree/main/projects/Smart-Document-Assistant)
 
-- **Featured** — strongest evidence of applied engineering scope.
-- **Engineering-ready baseline** — code and documentation have been hardened; real-data execution is still required when datasets are absent.
-- **Research / learning project** — useful evidence of experimentation, but not presented as a production system.
-- **Archive / other** — keep available for history, but do not lead with it in applications.
+## Migration policy
 
-## Portfolio gaps to close before claiming production readiness
+- `Abdulrahman181/Abdulrahman181` is the GitHub Profile repository and is intentionally excluded.
+- `amr-algazzar12/healthcare-recommendation-system` is owned by another account and is intentionally excluded.
+- No original project repository was deleted or archived.
+- Each categorized repository contains a project-level copy with its own README, tests, dependencies, notebooks, and engineering review.
+- Future work should be added to the appropriate categorized repository first, then linked from this catalog.
 
-- Add the authorized dataset or a reproducible download instruction.
+## Quality gates
+
+Before presenting a project as production-ready:
+
+- Provide the authorized dataset or a reproducible download instruction.
 - Pin or lock the tested environment.
 - Run the full pipeline from a clean environment.
-- Store dataset hash, model version, and evaluation split metadata.
+- Store dataset hash, model version, and evaluation-split metadata.
 - Add independent test metrics and error analysis.
 - Add an API or demo only when the artifact contract is reproducible.
-- Rotate any historical credentials and remove them from Git history when required.
+- Remove secrets and rotate any historical credentials when required.
