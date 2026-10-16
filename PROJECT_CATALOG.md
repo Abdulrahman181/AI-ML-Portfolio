@@ -6,28 +6,28 @@ The portfolio is now organized into domain repositories. The original standalone
 
 | Category | Repository | Projects |
 |---|---|---:|
-| Machine Learning | [Machine-Learning](https://github.com/Abdulrahman181/Machine-Learning) | 19 |
-| Deep Learning | [Deep-Learning](https://github.com/Abdulrahman181/Deep-Learning) | 4 |
-| Computer Vision | [Computer-Vision](https://github.com/Abdulrahman181/Computer-Vision) | 6 |
-| NLP | [NLP](https://github.com/Abdulrahman181/NLP) | 1 |
-| Generative AI / LLMs | [Generative-AI-LLMs](https://github.com/Abdulrahman181/Generative-AI-LLMs) | 3 |
-| Agentic AI | [Agentic-AI](https://github.com/Abdulrahman181/Agentic-AI) | 0 — ready for future agents |
-| MLOps | [MLOps](https://github.com/Abdulrahman181/MLOps) | 4 |
-| Big Data | [Big-Data](https://github.com/Abdulrahman181/Big-Data) | 1 |
-| Programming | [Programming](https://github.com/Abdulrahman181/Programming) | 0 — ready for Python/C/C++ work |
-| Other | [Other](https://github.com/Abdulrahman181/Other) | 1 |
+| Machine Learning | [Machine-Learning](https://github.com/Abdulrahman181/machine-learning) | 19 |
+| Deep Learning | [Deep-Learning](https://github.com/Abdulrahman181/deep-learning) | 4 |
+| Computer Vision | [Computer-Vision](https://github.com/Abdulrahman181/computer-vision) | 6 |
+| NLP | [NLP](https://github.com/Abdulrahman181/natural-language-processing) | 1 |
+| Generative AI / LLMs | [Generative-AI-LLMs](https://github.com/Abdulrahman181/generative-ai) | 3 |
+| Agentic AI | [Agentic-AI](https://github.com/Abdulrahman181/agentic-ai) | 0 — ready for future agents |
+| MLOps | [MLOps](https://github.com/Abdulrahman181/mlops) | 4 |
+| Big Data | [Big-Data](https://github.com/Abdulrahman181/big-data) | 1 |
+| Programming | [Programming](https://github.com/Abdulrahman181/software-engineering) | 0 — ready for Python/C/C++ work |
+| Other | [Other](https://github.com/Abdulrahman181/other-projects) | 1 |
 
 ## Featured projects
 
-1. [AI Resume Analyzer](https://github.com/Abdulrahman181/Generative-AI-LLMs/tree/main/projects/AI-Resume-Analyzer-development)
-2. [HR Policy RAG System](https://github.com/Abdulrahman181/Generative-AI-LLMs/tree/main/projects/HR-Policy-Question-Answering-System-RAG)
-3. [Financial Fraud Detection](https://github.com/Abdulrahman181/Machine-Learning/tree/main/projects/AI-Powered-Financial-Fraud-Detection-System)
-4. [Sales Forecasting and Demand Prediction](https://github.com/Abdulrahman181/Machine-Learning/tree/main/projects/sales-forecasting-and-demand-prediction)
-5. [Self-Driving Semantic Segmentation](https://github.com/Abdulrahman181/Computer-Vision/tree/main/projects/Self-Driving-Car-Semantic-Segmentation-using-U-Net)
-6. [Plant Disease Classification](https://github.com/Abdulrahman181/Deep-Learning/tree/main/projects/Classification-of-plant-diseases)
-7. [Telecom Customer Churn System](https://github.com/Abdulrahman181/MLOps/tree/main/projects/Telecom-Customer-Churn-Prediction-System)
-8. [Olist PostgreSQL MLOps](https://github.com/Abdulrahman181/MLOps/tree/main/projects/mlops-task1-olist-postgresql)
-9. [Smart Document Assistant](https://github.com/Abdulrahman181/Generative-AI-LLMs/tree/main/projects/Smart-Document-Assistant)
+1. [AI Resume Analyzer](https://github.com/Abdulrahman181/generative-ai/tree/main/projects/AI-Resume-Analyzer-development)
+2. [HR Policy RAG System](https://github.com/Abdulrahman181/generative-ai/tree/main/projects/HR-Policy-Question-Answering-System-RAG)
+3. [Financial Fraud Detection](https://github.com/Abdulrahman181/machine-learning/tree/main/projects/AI-Powered-Financial-Fraud-Detection-System)
+4. [Sales Forecasting and Demand Prediction](https://github.com/Abdulrahman181/machine-learning/tree/main/projects/sales-forecasting-and-demand-prediction)
+5. [Self-Driving Semantic Segmentation](https://github.com/Abdulrahman181/computer-vision/tree/main/projects/Self-Driving-Car-Semantic-Segmentation-using-U-Net)
+6. [Plant Disease Classification](https://github.com/Abdulrahman181/deep-learning/tree/main/projects/Classification-of-plant-diseases)
+7. [Telecom Customer Churn System](https://github.com/Abdulrahman181/mlops/tree/main/projects/Telecom-Customer-Churn-Prediction-System)
+8. [Olist PostgreSQL MLOps](https://github.com/Abdulrahman181/mlops/tree/main/projects/mlops-task1-olist-postgresql)
+9. [Smart Document Assistant](https://github.com/Abdulrahman181/generative-ai/tree/main/projects/Smart-Document-Assistant)
 
 ## Migration policy
 
