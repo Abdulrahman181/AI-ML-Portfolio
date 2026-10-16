@@ -31,8 +31,6 @@ The portfolio is now organized into domain repositories. The original standalone
 
 ## Migration policy
 
-- `Abdulrahman181/Abdulrahman181` is the GitHub Profile repository and is intentionally excluded.
-- `amr-algazzar12/healthcare-recommendation-system` is owned by another account and is intentionally excluded.
 - No original project repository was deleted or archived.
 - Each categorized repository contains a project-level copy with its own README, tests, dependencies, notebooks, and engineering review.
 - Future work should be added to the appropriate categorized repository first, then linked from this catalog.
